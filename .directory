@@ -1,7 +1,10 @@
 [Dolphin]
 HeaderColumnWidths=334,106,110,128
 SortRole=type
-Timestamp=2024,2,9,12,58,11.443
+Timestamp=2024,2,9,13,42,24.547
 Version=4
 ViewMode=1
 VisibleRoles=Details_text,Details_size,Details_modificationtime,Details_type,CustomizedDetails
+
+[Settings]
+HiddenFilesShown=true

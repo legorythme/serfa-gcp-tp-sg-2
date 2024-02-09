@@ -50,4 +50,4 @@ jobs:
           # j'utilise `gcloud` pour déployer mon job Cloud Run
           - name: "update Cloud Run job"
             run: |
-             gcloud run jobs deploy screenshotter --image=europe-west1-docker.pkg.dev/crucial-bucksaw-412810/serfa-gcp-tp-sg/serfa-gcp-tp-sg-2:latest --region=europe-west1        
+             gcloud run jobs deploy screenshotter --image=europe-west1-docker.pkg.dev/crucial-bucksaw-412810/serfa-gcp-tp-sg/serfa-gcp-tp-sg-2:latest --region=europe-west1
